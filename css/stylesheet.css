@@ -12,7 +12,7 @@ body{
   header {
     text-align: center;
     background-image: url("/Images/Kharla.jpg");
-    color: rgb(226, 235, 235);
+    color: rgb(234, 240, 240);
   }
   #backgroundPicture{
     display: block;
@@ -72,6 +72,7 @@ body{
 
   h1{
     font-size: 30px;
+
   }
   
   /* ID SECTION */
