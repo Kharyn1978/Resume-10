@@ -94,6 +94,23 @@ body{
       justify-content: space-between;
       
     }
+    @media (max-width: 768px) {
+      .float-right-sm {
+        float: right;
+      }
+    }
+    
+    @media (min-width: 769px) {
+      .float-right-lg {
+        float: right;
+      }
+    }
+    
+    .clearfix::after {
+      display: block;
+      clear: both;
+      content: "";
+    }
 
     #sidebar {
       
@@ -125,5 +142,15 @@ body{
       grid-auto-flow: unset;
   
     }
-  }  
+  } 
+  
+  .float-right-sm {
+    background-color: yellow;
+  }
+  
+  .float-right-lg {
+    background-color: pink;
+  }
+  
+ 
 }
