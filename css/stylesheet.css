@@ -98,16 +98,15 @@ body{
       .float-right-sm {
         float: right;
       }
+      .float-right-sm {
+        background-color: yellow;
+      }
     }
     
     @media (min-width: 769px) {
       .float-right-lg {
         float: right;
       }
-      .float-right-sm {
-        background-color: yellow;
-      }
-      
       .float-right-lg {
         background-color: pink;
       }
