@@ -57,9 +57,10 @@ footer {
 }
 
 #sidebar {
+  background-image: url(../images/Fondpeintblanc.jpg);
   background-color: rgb(67, 78, 19);
   width: 25%;
-  text-align: center;
+  text-align: right;
   color: rgb(229, 238, 238);
   padding: 1rem;
 
@@ -130,8 +131,8 @@ h1 {
 
     width: 100%;
     text-align: right;
-    color: rgb(229, 238, 238);
     background-image: url(../images/Fondpeintblanc.jpg);
+    color: rgb(229, 238, 238);
     display: grid;
     grid-row-start: 4;
     grid-row-end: auto;
