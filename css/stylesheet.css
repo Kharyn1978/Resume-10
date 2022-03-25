@@ -135,23 +135,14 @@ body{
       grid-column-end: auto;
     }
 
-    #content{
-    
-      width:100%;
-      display: grid;
-      grid-row-start: 4;
-      grid-row-end: auto;
-      grid-column-start: 5;
-      grid-column-end: 12;
+    #content {
+      width:80%;
+      background-image: url("/images/pic-fond.jpg");
+      background-repeat: repeat repeat;
+      background-color:#f15c5c;
+      background-position-x:right center;
     }
 
-    footer {
-      background-color: #91876a;
-      text-align: center;
-      display: grid;
-      grid-auto-flow: unset;
-  
-    }
   } 
   
   
