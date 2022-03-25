@@ -50,7 +50,7 @@ body{
   .main{
     display: flex; 
     flex-direction: row;
-    justify-content: space-between;
+   
     
   }
   
@@ -64,7 +64,7 @@ body{
   }
   
   #content{
-      width: 80%;
+    width: 80%;
     background-image: url("/Images/pic-fond.jpg");
     background-repeat: repeat repeat;
     background-color: #f15c5c;
