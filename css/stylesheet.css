@@ -42,6 +42,7 @@ header {
 
 
 footer {
+  background-image: url(../images/Fondpeintblanc.jpg);
   background-color: #91876a;
   text-align: center;
   padding: 0.7rem;
@@ -61,6 +62,7 @@ footer {
   background-color: rgb(67, 78, 19);
   width: 25%;
   text-align: right;
+  text-color: rgb(42, 6, 139);
   color: rgb(229, 238, 238);
   padding: 1rem;
 
@@ -131,7 +133,7 @@ h1 {
 
     width: 100%;
     text-align: right;
-    background-image: url(../images/Fondpeintblanc.jpg);
+    background-image: url(../images/pic-fond.jpg);
     color: rgb(229, 238, 238);
     display: grid;
     grid-row-start: 4;
