@@ -23,6 +23,9 @@ body{
     background-size:100%;
 
   }
+  #jumpButton {
+    width: 90%; 
+  }
 
   #heading {
     font-family: sans-serif;
